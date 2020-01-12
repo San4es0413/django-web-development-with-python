@@ -2,3 +2,5 @@
 Learning project on django
 
 Change README
+
+Some text
